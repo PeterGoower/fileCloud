@@ -1,0 +1,410 @@
+﻿$axure.loadCurrentPage({
+  "url":"档案列表.html",
+  "generationDate":new Date(1431854790617.26),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"dd9f0f92ca934ac2a04d5f3aaaee2193",
+    "type":"Axure:Page",
+    "name":"档案列表",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c8521195e32246cebe2c06d0b9198cfa",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":182,
+              "y":-8},
+            "size":{
+              "width":450,
+              "height":731}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a79680b45ded4da1ad41effe22a47e13",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":182,
+                  "y":-8},
+                "size":{
+                  "width":450,
+                  "height":731}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登陆/u0.png"}},
+{
+          "id":"1d05987707e74cd9a6c8ec3cd3141a9d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":247,
+              "y":112},
+            "size":{
+              "width":320,
+              "height":26}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"889d5dedd28f42ad8b0623fd65f26892",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":247,
+                  "y":112},
+                "size":{
+                  "width":320,
+                  "height":26}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登陆/u15.png"}},
+{
+          "id":"3b75117b87e1449099a3272bd7de6e38",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":421,
+              "y":114},
+            "size":{
+              "width":21,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e82d1776390346acb1450613ee172692",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":421,
+                  "y":114},
+                "size":{
+                  "width":21,
+                  "height":21}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登陆/u17.png"}},
+{
+          "id":"644d4463265345e5ab8ea5bdf060d815",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":446,
+              "y":114},
+            "size":{
+              "width":22,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"93e6da5b819f4b6e983164de1d8a4f1d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":446,
+                  "y":114},
+                "size":{
+                  "width":22,
+                  "height":21}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登陆/u19.png"}},
+{
+          "id":"a7e0674f66f44002afda80f4d5810f1c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":471,
+              "y":116},
+            "size":{
+              "width":21,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"953eab31d53d482294d7eb5b8dfbbb9c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":471,
+                  "y":116},
+                "size":{
+                  "width":21,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登陆/u21.png"}},
+{
+          "id":"188420465bd441dc8b0abd1f37d5a4b7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Black Black', 'Arial Black'",
+            "location":{
+              "x":501,
+              "y":114},
+            "size":{
+              "width":60,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c8b6b4f7753b42c3bc117b1200a42aa0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Black Black', 'Arial Black'",
+                "location":{
+                  "x":501,
+                  "y":114},
+                "size":{
+                  "width":60,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"425e3c105934443ba10cc8867878833b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":247,
+              "y":138},
+            "size":{
+              "width":320,
+              "height":52}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bc18dd90a87a4d3291e13006db8d123f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":247,
+                  "y":138},
+                "size":{
+                  "width":320,
+                  "height":52}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/档案列表/u12.png"}},
+{
+          "id":"b54987e29cc9486397ed68c7d63e7d5b",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":250,
+              "y":140},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 首页 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"首页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"2cf3c1b796884e28a9bcc00d3897056b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":250,
+              "y":190},
+            "size":{
+              "width":317,
+              "height":400}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cde2364be2004c1580f8c415bdb6b911",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":250,
+                  "y":190},
+                "size":{
+                  "width":317,
+                  "height":400}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/档案列表/u15.png"}},
+{
+          "id":"0adff006dc5144a0946c76e9b565a368",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":506,
+              "y":190},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 档案页面 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"档案页面.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c8521195e32246cebe2c06d0b9198cfa":{
+      "scriptId":"u0"},
+    "a79680b45ded4da1ad41effe22a47e13":{
+      "scriptId":"u1"},
+    "1d05987707e74cd9a6c8ec3cd3141a9d":{
+      "scriptId":"u2"},
+    "889d5dedd28f42ad8b0623fd65f26892":{
+      "scriptId":"u3"},
+    "3b75117b87e1449099a3272bd7de6e38":{
+      "scriptId":"u4"},
+    "e82d1776390346acb1450613ee172692":{
+      "scriptId":"u5"},
+    "644d4463265345e5ab8ea5bdf060d815":{
+      "scriptId":"u6"},
+    "93e6da5b819f4b6e983164de1d8a4f1d":{
+      "scriptId":"u7"},
+    "a7e0674f66f44002afda80f4d5810f1c":{
+      "scriptId":"u8"},
+    "953eab31d53d482294d7eb5b8dfbbb9c":{
+      "scriptId":"u9"},
+    "188420465bd441dc8b0abd1f37d5a4b7":{
+      "scriptId":"u10"},
+    "c8b6b4f7753b42c3bc117b1200a42aa0":{
+      "scriptId":"u11"},
+    "425e3c105934443ba10cc8867878833b":{
+      "scriptId":"u12"},
+    "bc18dd90a87a4d3291e13006db8d123f":{
+      "scriptId":"u13"},
+    "b54987e29cc9486397ed68c7d63e7d5b":{
+      "scriptId":"u14"},
+    "2cf3c1b796884e28a9bcc00d3897056b":{
+      "scriptId":"u15"},
+    "cde2364be2004c1580f8c415bdb6b911":{
+      "scriptId":"u16"},
+    "0adff006dc5144a0946c76e9b565a368":{
+      "scriptId":"u17"}}});
