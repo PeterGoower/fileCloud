@@ -46,6 +46,7 @@ public final class MimeUtils {
         //
         // and "active" MIME types (due to potential security issues).
 
+    	add("application/zzzz", "zzzz");
         add("application/andrew-inset", "ez");
         add("application/dsptype", "tsp");
         add("application/futuresplash", "spl");

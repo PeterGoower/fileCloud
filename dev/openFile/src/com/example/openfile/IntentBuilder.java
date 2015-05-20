@@ -40,7 +40,8 @@ public class IntentBuilder {
             intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             intent.setAction(android.content.Intent.ACTION_VIEW);
             intent.setDataAndType(Uri.fromFile(new File(filePath)), type);
-            context.startActivity(intent);
+            //context.startActivity(intent);
+            context.startActivity(Intent.createChooser(intent, "Select music"));
         } else {
             // unknown MimeType
             Log.i("lei", "le");
