@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:background="#0690d9">
+    </TextView>
+    <RelativeLayout android:layout_centerInParent="true"
+        android:layout_width="250dp"
+        android:layout_height="150dp"
+        android:background="#88000000">
+        <TextView
+            android:id="@+id/info"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="#ffffff"
+            android:gravity="center"
+            android:paddingBottom="40dp"
+            android:textSize="18sp"
+            android:layout_centerInParent="true">
+        </TextView>
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true">
+            <Button 
+                android:id="@+id/left"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="取消"
+                android:layout_weight="1"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_marginRight="1px"
+                android:background="#0690d9">     
+            </Button>
+            <Button 
+                android:id="@+id/right"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="确定"
+                android:layout_weight="1"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_marginLeft="1px"
+                android:background="#0690d9">     
+            </Button>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

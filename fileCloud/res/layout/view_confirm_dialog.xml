@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:background="#0690d9">
+    </TextView>
+    <RelativeLayout android:layout_centerInParent="true"
+        android:layout_width="250dp"
+        android:layout_height="150dp"
+        android:background="#88000000">
+        <TextView
+            android:id="@+id/info"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="#ffffff"
+            android:gravity="center"
+            android:paddingBottom="40dp"
+            android:textSize="18sp"
+            android:layout_centerInParent="true">
+        </TextView>
+        <Button 
+            android:id="@+id/btn_confirm"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="我知道了"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:background="#0690d9">
+        </Button>
+    </RelativeLayout>
+</RelativeLayout>
