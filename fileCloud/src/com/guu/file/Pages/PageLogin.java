@@ -84,6 +84,9 @@ public class PageLogin extends BasePage implements OnClickListener, TipEvent{
 			cbRemeber.setChecked(true);
 			if(isConnect()){
 				doLogin();
+//				this.finish();//
+//				Intent intent = new Intent(PageLogin.this, PageHome.class); //
+//				startActivity(intent); //
 			}else{
 				this.finish();
 				Intent intent = new Intent(PageLogin.this, PageHome.class); 
